@@ -1,0 +1,11 @@
+D:\Repository\smol-projects\Vasic Project\Vasic Project\bin\Debug\Vasic Project.exe.config
+D:\Repository\smol-projects\Vasic Project\Vasic Project\bin\Debug\Vasic Project.exe
+D:\Repository\smol-projects\Vasic Project\Vasic Project\bin\Debug\Vasic Project.pdb
+D:\Repository\smol-projects\Vasic Project\Vasic Project\obj\Debug\Vasic Project.csproj.AssemblyReference.cache
+D:\Repository\smol-projects\Vasic Project\Vasic Project\obj\Debug\Vasic_Project.Form1.resources
+D:\Repository\smol-projects\Vasic Project\Vasic Project\obj\Debug\Vasic_Project.Properties.Resources.resources
+D:\Repository\smol-projects\Vasic Project\Vasic Project\obj\Debug\Vasic Project.csproj.GenerateResource.cache
+D:\Repository\smol-projects\Vasic Project\Vasic Project\obj\Debug\Vasic Project.csproj.CoreCompileInputs.cache
+D:\Repository\smol-projects\Vasic Project\Vasic Project\obj\Debug\Vasic Project.exe
+D:\Repository\smol-projects\Vasic Project\Vasic Project\obj\Debug\Vasic Project.pdb
+D:\Repository\smol-projects\Vasic Project\Vasic Project\obj\Debug\Vasic Project.exe.config
